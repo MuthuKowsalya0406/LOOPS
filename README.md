@@ -45,3 +45,12 @@ n	Fibonacci(n)
 6	8
 7	13
 ...	...
+
+**Part 3: For loops**
+1)Use the for loop to create a programm that ask the user to input a name and then prints each of the letters of the name
+
+2)**Hint** You can use the following String functions:
+
+lenght() -> returns the total number of characters of a given String
+
+chartAt(i) -> returns the character at the given position(i) of a String
